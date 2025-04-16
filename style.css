@@ -417,7 +417,7 @@
     
     height: 385px;
     
-     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/greece.png");
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/greece.png");
     
     background-size: cover;
     
@@ -431,7 +431,7 @@
     
     height: 385px;
     
-     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/japan.png");
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/japan.png");
     
      background-size: cover;
     
@@ -445,7 +445,7 @@
     
     height: 385px;
     
-     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/south_africa.png");
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/south_africa.png");
     
    background-size: cover;
     
